@@ -1,8 +1,11 @@
 defmodule TheMovieDBTest do
   use ExUnit.Case
-  doctest TheMovieDB
 
-  # test "greets the world" do
-  #   assert TheMovieDB.hello() == :world
-  # end
+  # test 401
+
+  # test 404
+
+  # test 500s ????
+
+
 end

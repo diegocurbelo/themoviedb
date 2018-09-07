@@ -30,12 +30,12 @@ defmodule TheMovieDB.MixProject do
   end
 
   defp description() do
-    "A few sentences (a paragraph) describing the project."
+    "An Elixir client for themoviedb.org (TMDb) API"
   end
 
   defp package() do
     [
-
+      maintainers: ["diegocurbelo"],
       licenses: ["MIT"],
       links: %{"GitHub" => "https://github.com/diegocurbelo/themoviedb"}
     ]
